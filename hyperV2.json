@@ -1,2402 +1,866 @@
 [
     {
-        "hidden_layers": 1,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 16,
-        "activation": "selu",
-        "val_loss": 0.18998628854751587,
-        "cos": 0.879187822341919
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 16,
-        "activation": "sigmoid",
-        "val_loss": 0.03145968168973923,
-        "cos": 0.993495762348175
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.029483886435627937,
-        "cos": 0.99139404296875
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 32,
-        "activation": "selu",
-        "val_loss": 0.018390703946352005,
-        "cos": 0.9968222379684448
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 32,
-        "activation": "sigmoid",
-        "val_loss": 0.019137928262352943,
-        "cos": 0.9976716041564941
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.018083849921822548,
-        "cos": 0.9980101585388184
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 64,
-        "activation": "selu",
-        "val_loss": 0.016636136919260025,
-        "cos": 0.9981553554534912
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 64,
-        "activation": "sigmoid",
-        "val_loss": 0.016955582424998283,
-        "cos": 0.9984966516494751
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.017006972804665565,
-        "cos": 0.9983214139938354
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 128,
-        "activation": "selu",
-        "val_loss": 0.016143251210451126,
-        "cos": 0.9984079003334045
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 128,
-        "activation": "sigmoid",
-        "val_loss": 0.016436127945780754,
-        "cos": 0.998643696308136
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 0.016260532662272453,
-        "cos": 0.9985714554786682
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 16,
-        "activation": "selu",
-        "val_loss": 0.016566654667258263,
-        "cos": 0.9981417059898376
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 16,
-        "activation": "sigmoid",
-        "val_loss": 0.016395004466176033,
-        "cos": 0.9986602663993835
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.016184255480766296,
-        "cos": 0.9985854625701904
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 32,
-        "activation": "selu",
-        "val_loss": 0.01581558771431446,
-        "cos": 0.9985384941101074
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 32,
-        "activation": "sigmoid",
-        "val_loss": 0.016331790015101433,
-        "cos": 0.9986350536346436
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.015848278999328613,
-        "cos": 0.9986106753349304
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 64,
-        "activation": "selu",
-        "val_loss": 0.015294034965336323,
-        "cos": 0.9986061453819275
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 64,
-        "activation": "sigmoid",
-        "val_loss": 0.016137702390551567,
-        "cos": 0.9986810088157654
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.015405261889100075,
-        "cos": 0.9986653327941895
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 128,
-        "activation": "selu",
-        "val_loss": 0.014807716943323612,
-        "cos": 0.9986028671264648
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 128,
-        "activation": "sigmoid",
-        "val_loss": 0.016004372388124466,
-        "cos": 0.9986719489097595
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 0.014913569204509258,
-        "cos": 0.9987004399299622
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 16,
-        "activation": "selu",
-        "val_loss": 0.014686239883303642,
-        "cos": 0.9981796145439148
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 16,
-        "activation": "sigmoid",
-        "val_loss": 0.01466638408601284,
-        "cos": 0.9984572529792786
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.014347456395626068,
-        "cos": 0.9977389574050903
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 32,
-        "activation": "selu",
-        "val_loss": 0.014706501737236977,
-        "cos": 0.9983461499214172
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 32,
-        "activation": "sigmoid",
-        "val_loss": 0.014325697906315327,
-        "cos": 0.9978082776069641
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.014610235579311848,
-        "cos": 0.9982653856277466
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 64,
-        "activation": "selu",
-        "val_loss": 0.014888858422636986,
-        "cos": 0.99849933385849
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 64,
-        "activation": "sigmoid",
-        "val_loss": 0.014246640726923943,
-        "cos": 0.9978015422821045
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.014855729416012764,
-        "cos": 0.9986938238143921
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 128,
-        "activation": "selu",
-        "val_loss": 0.014977977611124516,
-        "cos": 0.9985800981521606
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 128,
-        "activation": "sigmoid",
-        "val_loss": 0.014686521142721176,
-        "cos": 0.9985501170158386
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 0.014553897082805634,
-        "cos": 0.998312771320343
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 16,
-        "activation": "selu",
-        "val_loss": 0.014450695365667343,
-        "cos": 0.9982924461364746
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 16,
-        "activation": "sigmoid",
-        "val_loss": 0.014572080224752426,
-        "cos": 0.9982602000236511
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.014501862227916718,
-        "cos": 0.9979525208473206
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 32,
-        "activation": "selu",
-        "val_loss": 0.014766407199203968,
-        "cos": 0.9984505772590637
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 32,
-        "activation": "sigmoid",
-        "val_loss": 0.014896032400429249,
-        "cos": 0.9986053109169006
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.014485856518149376,
-        "cos": 0.9979031682014465
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 64,
-        "activation": "selu",
-        "val_loss": 0.015875838696956635,
-        "cos": 0.9984397292137146
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 64,
-        "activation": "sigmoid",
-        "val_loss": 0.014509818516671658,
-        "cos": 0.998106062412262
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.014780665747821331,
-        "cos": 0.9985395669937134
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 128,
-        "activation": "selu",
-        "val_loss": 0.01549532264471054,
-        "cos": 0.9985064268112183
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 128,
-        "activation": "sigmoid",
-        "val_loss": 0.014566559344530106,
-        "cos": 0.9982770681381226
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 0.01599010080099106,
-        "cos": 0.9985018968582153
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 16,
-        "activation": "selu",
-        "val_loss": 0.016213644295930862,
-        "cos": 0.9985767006874084
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 16,
-        "activation": "sigmoid",
-        "val_loss": 0.015490778721868992,
-        "cos": 0.9986255168914795
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.016693489626049995,
-        "cos": 0.9985929727554321
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 32,
-        "activation": "selu",
-        "val_loss": 3.989851713180542,
-        "cos": -0.6105210781097412
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 32,
-        "activation": "sigmoid",
-        "val_loss": 0.015161839313805103,
-        "cos": 0.9986719489097595
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.016546370461583138,
-        "cos": 0.9984878897666931
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 64,
-        "activation": "selu",
-        "val_loss": 5.9885125160217285,
-        "cos": -0.9971829056739807
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 64,
-        "activation": "sigmoid",
-        "val_loss": 0.015039687976241112,
-        "cos": 0.9981996417045593
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.01892409287393093,
-        "cos": 0.9973626732826233
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 128,
-        "activation": "selu",
-        "val_loss": 5.9885125160217285,
-        "cos": -0.9971829056739807
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 128,
-        "activation": "sigmoid",
-        "val_loss": 0.015020071528851986,
-        "cos": 0.9982987642288208
-    },
-    {
-        "hidden_layers": 1,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 1.985556960105896,
-        "cos": -0.10323946923017502
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 16,
-        "activation": "selu",
-        "val_loss": 0.018224434927105904,
-        "cos": 0.9969719052314758
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 16,
-        "activation": "sigmoid",
-        "val_loss": 0.021637337282299995,
-        "cos": 0.9971824884414673
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.0214692335575819,
-        "cos": 0.9977178573608398
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 32,
-        "activation": "selu",
-        "val_loss": 0.01719466783106327,
-        "cos": 0.9976418614387512
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 32,
-        "activation": "sigmoid",
-        "val_loss": 0.019983911886811256,
-        "cos": 0.9981040358543396
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.017374183982610703,
-        "cos": 0.9980483055114746
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 64,
-        "activation": "selu",
-        "val_loss": 0.016053522005677223,
-        "cos": 0.9984784722328186
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 64,
-        "activation": "sigmoid",
-        "val_loss": 0.017765991389751434,
-        "cos": 0.9985510110855103
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.01662806235253811,
-        "cos": 0.9986031651496887
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 128,
-        "activation": "selu",
-        "val_loss": 0.015421001240611076,
-        "cos": 0.998562753200531
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 128,
-        "activation": "sigmoid",
-        "val_loss": 0.016891013830900192,
-        "cos": 0.9986169934272766
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 0.01613079383969307,
-        "cos": 0.998647928237915
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 16,
-        "activation": "selu",
-        "val_loss": 0.01645304262638092,
-        "cos": 0.9985840916633606
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 16,
-        "activation": "sigmoid",
-        "val_loss": 0.0166018083691597,
-        "cos": 0.9986540079116821
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.016085051000118256,
-        "cos": 0.9986186027526855
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 32,
-        "activation": "selu",
-        "val_loss": 0.015406464226543903,
-        "cos": 0.9985646605491638
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 32,
-        "activation": "sigmoid",
-        "val_loss": 0.01641887240111828,
-        "cos": 0.9986611604690552
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.01556724775582552,
-        "cos": 0.9986268281936646
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 64,
-        "activation": "selu",
-        "val_loss": 0.014605735428631306,
-        "cos": 0.9982883334159851
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 64,
-        "activation": "sigmoid",
-        "val_loss": 0.01625249721109867,
-        "cos": 0.9986586570739746
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.014989449642598629,
-        "cos": 0.9986711144447327
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 128,
-        "activation": "selu",
-        "val_loss": 0.014656530693173409,
-        "cos": 0.9983294606208801
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 128,
-        "activation": "sigmoid",
-        "val_loss": 0.016086677089333534,
-        "cos": 0.9986703991889954
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 0.014351635240018368,
-        "cos": 0.998170018196106
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 16,
-        "activation": "selu",
-        "val_loss": 0.014322883449494839,
-        "cos": 0.9978567361831665
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 16,
-        "activation": "sigmoid",
-        "val_loss": 0.014999745413661003,
-        "cos": 0.9986902475357056
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.014149040915071964,
-        "cos": 0.9977802634239197
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 32,
-        "activation": "selu",
-        "val_loss": 0.014606349170207977,
-        "cos": 0.9982438683509827
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 32,
-        "activation": "sigmoid",
-        "val_loss": 0.01442194078117609,
-        "cos": 0.9979815483093262
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.014165041968226433,
-        "cos": 0.9976739287376404
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 64,
-        "activation": "selu",
-        "val_loss": 0.01444180402904749,
-        "cos": 0.9979283809661865
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 64,
-        "activation": "sigmoid",
-        "val_loss": 0.014387812465429306,
-        "cos": 0.9978809952735901
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.014483047649264336,
-        "cos": 0.9979840517044067
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 128,
-        "activation": "selu",
-        "val_loss": 0.014870736747980118,
-        "cos": 0.9984068870544434
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 128,
-        "activation": "sigmoid",
-        "val_loss": 0.01634266786277294,
-        "cos": 0.9986605048179626
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 0.015099761076271534,
-        "cos": 0.9984477162361145
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 16,
-        "activation": "selu",
-        "val_loss": 0.01437497790902853,
-        "cos": 0.9982472658157349
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 16,
-        "activation": "sigmoid",
-        "val_loss": 0.014867562800645828,
-        "cos": 0.9986627101898193
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.013989115133881569,
-        "cos": 0.9984526038169861
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 32,
-        "activation": "selu",
-        "val_loss": 0.014873862266540527,
-        "cos": 0.9984453320503235
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 32,
-        "activation": "sigmoid",
-        "val_loss": 0.014410213567316532,
-        "cos": 0.9984851479530334
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.014638874679803848,
-        "cos": 0.9982401728630066
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 64,
-        "activation": "selu",
-        "val_loss": 0.015481646172702312,
-        "cos": 0.9985536336898804
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 64,
-        "activation": "sigmoid",
-        "val_loss": 0.0141287324950099,
-        "cos": 0.998016893863678
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.015346542932093143,
-        "cos": 0.9985989928245544
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 128,
-        "activation": "selu",
-        "val_loss": 0.015070250257849693,
-        "cos": 0.998550534248352
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 128,
-        "activation": "sigmoid",
-        "val_loss": 0.014312893152236938,
-        "cos": 0.9984963536262512
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 0.015310308896005154,
-        "cos": 0.9986283779144287
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 16,
-        "activation": "selu",
-        "val_loss": 0.01600957103073597,
-        "cos": 0.9985777735710144
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 16,
-        "activation": "sigmoid",
-        "val_loss": 0.015635930001735687,
-        "cos": 0.9986662268638611
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.01760604791343212,
-        "cos": 0.9973795413970947
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 32,
-        "activation": "selu",
-        "val_loss": 3.9771358966827393,
-        "cos": -0.617118239402771
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 32,
-        "activation": "sigmoid",
-        "val_loss": 0.016354726627469063,
-        "cos": 0.9986310601234436
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.022827576845884323,
-        "cos": 0.9973016977310181
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 64,
-        "activation": "selu",
-        "val_loss": 5.9885125160217285,
-        "cos": -0.9971829056739807
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 64,
-        "activation": "sigmoid",
-        "val_loss": 0.01540266815572977,
-        "cos": 0.998648464679718
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.022656233981251717,
-        "cos": 0.9973069429397583
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 128,
-        "activation": "selu",
-        "val_loss": 5.9885125160217285,
-        "cos": -0.9971829056739807
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 128,
-        "activation": "sigmoid",
-        "val_loss": 0.02269618958234787,
-        "cos": 0.9973170757293701
-    },
-    {
-        "hidden_layers": 2,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 2.03239369392395,
-        "cos": -0.13762424886226654
-    },
-    {
         "hidden_layers": 3,
         "learning_rate": 1e-05,
-        "nodes_first_layer": 16,
+        "nodes_first_layer": 128,
         "activation": "selu",
-        "val_loss": 0.022182302549481392,
-        "cos": 0.9949968457221985
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 16,
-        "activation": "sigmoid",
-        "val_loss": 0.12753304839134216,
-        "cos": 0.8846084475517273
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.019038449972867966,
-        "cos": 0.997739851474762
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 32,
-        "activation": "selu",
-        "val_loss": 0.017539165914058685,
-        "cos": 0.9979454874992371
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 32,
-        "activation": "sigmoid",
-        "val_loss": 0.0219880323857069,
-        "cos": 0.9972902536392212
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.017235882580280304,
-        "cos": 0.998521089553833
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 64,
-        "activation": "selu",
-        "val_loss": 0.016500985249876976,
-        "cos": 0.9982125163078308
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 64,
-        "activation": "sigmoid",
-        "val_loss": 0.020525580272078514,
-        "cos": 0.9974610805511475
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.016527291387319565,
-        "cos": 0.9984812140464783
+        "epoch": 297,
+        "val_loss": 0.0022028973326087
     },
     {
         "hidden_layers": 3,
         "learning_rate": 1e-05,
         "nodes_first_layer": 128,
         "activation": "selu",
-        "val_loss": 0.01542207133024931,
-        "cos": 0.9984599351882935
+        "val_loss": 0.002266471041366458,
+        "cos": 0.9982283711433411
     },
     {
         "hidden_layers": 3,
         "learning_rate": 1e-05,
         "nodes_first_layer": 128,
         "activation": "sigmoid",
-        "val_loss": 0.01901298575103283,
-        "cos": 0.9978993535041809
+        "epoch": 299,
+        "val_loss": 0.002580340951681137
     },
     {
         "hidden_layers": 3,
         "learning_rate": 1e-05,
         "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 0.015907665714621544,
-        "cos": 0.9986904859542847
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 16,
-        "activation": "selu",
-        "val_loss": 0.016061274334788322,
-        "cos": 0.9985886216163635
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 16,
         "activation": "sigmoid",
-        "val_loss": 0.018169041723012924,
-        "cos": 0.997572124004364
+        "val_loss": 0.002575715072453022,
+        "cos": 0.998286247253418
     },
     {
         "hidden_layers": 3,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.016295501962304115,
-        "cos": 0.9986241459846497
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 32,
-        "activation": "selu",
-        "val_loss": 0.015180403366684914,
-        "cos": 0.9984093904495239
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 32,
-        "activation": "sigmoid",
-        "val_loss": 0.016670996323227882,
-        "cos": 0.9986480474472046
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.015589794144034386,
-        "cos": 0.998669445514679
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 64,
-        "activation": "selu",
-        "val_loss": 0.014501843601465225,
-        "cos": 0.9978322982788086
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 64,
-        "activation": "sigmoid",
-        "val_loss": 0.016211045905947685,
-        "cos": 0.998660147190094
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.014361832290887833,
-        "cos": 0.9981802105903625
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 128,
-        "activation": "selu",
-        "val_loss": 0.014361883513629436,
-        "cos": 0.9980215430259705
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 128,
-        "activation": "sigmoid",
-        "val_loss": 0.0164040420204401,
-        "cos": 0.998654842376709
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 0.014495261013507843,
-        "cos": 0.9982134103775024
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 16,
-        "activation": "selu",
-        "val_loss": 0.014182576909661293,
-        "cos": 0.9977189898490906
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 16,
-        "activation": "sigmoid",
-        "val_loss": 0.015463512390851974,
-        "cos": 0.9986814260482788
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.013839853927493095,
-        "cos": 0.9978453516960144
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 32,
-        "activation": "selu",
-        "val_loss": 0.013936440460383892,
-        "cos": 0.9976539015769958
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 32,
-        "activation": "sigmoid",
-        "val_loss": 0.014147887006402016,
-        "cos": 0.9979761242866516
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.013996637426316738,
-        "cos": 0.9975849986076355
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 64,
-        "activation": "selu",
-        "val_loss": 0.015225515700876713,
-        "cos": 0.998430609703064
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 64,
-        "activation": "sigmoid",
-        "val_loss": 0.013877786695957184,
-        "cos": 0.9977086782455444
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.01440460979938507,
-        "cos": 0.9980675578117371
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 128,
-        "activation": "selu",
-        "val_loss": 0.015245568007230759,
-        "cos": 0.9985268712043762
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 128,
-        "activation": "sigmoid",
-        "val_loss": 0.01403803564608097,
-        "cos": 0.9977775812149048
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 0.01463690958917141,
-        "cos": 0.9981755614280701
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 16,
-        "activation": "selu",
-        "val_loss": 0.014139974489808083,
-        "cos": 0.9986358880996704
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 16,
-        "activation": "sigmoid",
-        "val_loss": 0.013966658152639866,
-        "cos": 0.9986642003059387
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.014938739128410816,
-        "cos": 0.9986366629600525
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 32,
-        "activation": "selu",
-        "val_loss": 0.015363223850727081,
-        "cos": 0.9985820055007935
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 32,
-        "activation": "sigmoid",
-        "val_loss": 0.013637074269354343,
-        "cos": 0.9983553886413574
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.015330394729971886,
-        "cos": 0.9986841082572937
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 64,
-        "activation": "selu",
-        "val_loss": 0.015711475163698196,
-        "cos": 0.9985625147819519
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 64,
-        "activation": "sigmoid",
-        "val_loss": 0.013236014172434807,
-        "cos": 0.9986785054206848
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.016069184988737106,
-        "cos": 0.9986559152603149
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 128,
-        "activation": "selu",
-        "val_loss": 0.015150059014558792,
-        "cos": 0.9986466765403748
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 128,
-        "activation": "sigmoid",
-        "val_loss": 0.013287417590618134,
-        "cos": 0.9986993074417114
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 0.016236944124102592,
-        "cos": 0.9986169338226318
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 16,
-        "activation": "selu",
-        "val_loss": 0.01588776335120201,
-        "cos": 0.9985796213150024
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 16,
-        "activation": "sigmoid",
-        "val_loss": 0.016129542142152786,
-        "cos": 0.9985488653182983
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.01678340509533882,
-        "cos": 0.9985206723213196
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 32,
-        "activation": "selu",
-        "val_loss": 1.9829685688018799,
-        "cos": -0.08652400225400925
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 32,
-        "activation": "sigmoid",
-        "val_loss": 0.015295688062906265,
-        "cos": 0.9986345767974854
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.02265758067369461,
-        "cos": 0.9972981810569763
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 64,
-        "activation": "selu",
-        "val_loss": 5.9885125160217285,
-        "cos": -0.9971829056739807
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 64,
-        "activation": "sigmoid",
-        "val_loss": 0.022646643221378326,
-        "cos": 0.997300922870636
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.02270306460559368,
-        "cos": 0.997283935546875
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 128,
-        "activation": "selu",
-        "val_loss": 5.9885125160217285,
-        "cos": -0.9971829056739807
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 128,
-        "activation": "sigmoid",
-        "val_loss": 0.02266532927751541,
-        "cos": 0.9972977042198181
-    },
-    {
-        "hidden_layers": 3,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 0.022762879729270935,
-        "cos": 0.9972975254058838
-    },
-    {
-        "hidden_layers": 4,
         "learning_rate": 1e-05,
-        "nodes_first_layer": 16,
+        "nodes_first_layer": 256,
         "activation": "selu",
-        "val_loss": 0.01971760205924511,
-        "cos": 0.9964754581451416
+        "epoch": 265,
+        "val_loss": 0.0019591578748077154
     },
     {
-        "hidden_layers": 4,
+        "hidden_layers": 3,
         "learning_rate": 1e-05,
-        "nodes_first_layer": 16,
-        "activation": "sigmoid",
-        "val_loss": 0.11480176448822021,
-        "cos": 0.8961347937583923
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.021939627826213837,
-        "cos": 0.9967480301856995
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 32,
+        "nodes_first_layer": 256,
         "activation": "selu",
-        "val_loss": 0.017882728949189186,
-        "cos": 0.9975383281707764
+        "val_loss": 0.001953793689608574,
+        "cos": 0.9984733462333679
     },
     {
-        "hidden_layers": 4,
+        "hidden_layers": 3,
         "learning_rate": 1e-05,
-        "nodes_first_layer": 32,
+        "nodes_first_layer": 256,
         "activation": "sigmoid",
-        "val_loss": 0.024032317101955414,
-        "cos": 0.9967585802078247
+        "epoch": 299,
+        "val_loss": 0.0018438583938404918
     },
     {
-        "hidden_layers": 4,
+        "hidden_layers": 3,
         "learning_rate": 1e-05,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.017607945948839188,
-        "cos": 0.9983008503913879
+        "nodes_first_layer": 256,
+        "activation": "sigmoid",
+        "val_loss": 0.0018480743747204542,
+        "cos": 0.9989703893661499
     },
     {
-        "hidden_layers": 4,
+        "hidden_layers": 3,
         "learning_rate": 1e-05,
-        "nodes_first_layer": 64,
+        "nodes_first_layer": 512,
         "activation": "selu",
-        "val_loss": 0.017088821157813072,
-        "cos": 0.9980337619781494
+        "epoch": 121,
+        "val_loss": 0.0020494305063039064
     },
     {
-        "hidden_layers": 4,
+        "hidden_layers": 3,
         "learning_rate": 1e-05,
-        "nodes_first_layer": 64,
+        "nodes_first_layer": 512,
+        "activation": "selu",
+        "val_loss": 0.002044444438070059,
+        "cos": 0.9985891580581665
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 1e-05,
+        "nodes_first_layer": 512,
         "activation": "sigmoid",
-        "val_loss": 0.0214849803596735,
-        "cos": 0.9976912140846252
+        "epoch": 298,
+        "val_loss": 0.0017952065682038665
     },
     {
-        "hidden_layers": 4,
+        "hidden_layers": 3,
         "learning_rate": 1e-05,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.01655985601246357,
-        "cos": 0.9986363053321838
+        "nodes_first_layer": 512,
+        "activation": "sigmoid",
+        "val_loss": 0.001799620920792222,
+        "cos": 0.9990007281303406
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 128,
+        "activation": "selu",
+        "epoch": 118,
+        "val_loss": 0.001966544659808278
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 128,
+        "activation": "selu",
+        "val_loss": 0.001977310748770833,
+        "cos": 0.998664140701294
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 128,
+        "activation": "sigmoid",
+        "epoch": 96,
+        "val_loss": 0.0017639867728576064
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 128,
+        "activation": "sigmoid",
+        "val_loss": 0.0017608129419386387,
+        "cos": 0.9990184307098389
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 256,
+        "activation": "selu",
+        "epoch": 96,
+        "val_loss": 0.0019666922744363546
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 256,
+        "activation": "selu",
+        "val_loss": 0.0019461942138150334,
+        "cos": 0.998681366443634
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 256,
+        "activation": "sigmoid",
+        "epoch": 182,
+        "val_loss": 0.0017578693805262446
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 256,
+        "activation": "sigmoid",
+        "val_loss": 0.0017526563024148345,
+        "cos": 0.9990211129188538
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 512,
+        "activation": "selu",
+        "epoch": 55,
+        "val_loss": 0.001956902677193284
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 512,
+        "activation": "selu",
+        "val_loss": 0.0019261566922068596,
+        "cos": 0.9987491965293884
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 512,
+        "activation": "sigmoid",
+        "epoch": 87,
+        "val_loss": 0.0017824238166213036
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 512,
+        "activation": "sigmoid",
+        "val_loss": 0.0017827581614255905,
+        "cos": 0.9990118741989136
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 128,
+        "activation": "selu",
+        "epoch": 57,
+        "val_loss": 0.0019206387223675847
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 128,
+        "activation": "selu",
+        "val_loss": 0.0019139011856168509,
+        "cos": 0.9988000988960266
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 128,
+        "activation": "sigmoid",
+        "epoch": 51,
+        "val_loss": 0.001752400421537459
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 128,
+        "activation": "sigmoid",
+        "val_loss": 0.0017476680222898722,
+        "cos": 0.9990166425704956
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 256,
+        "activation": "selu",
+        "epoch": 31,
+        "val_loss": 0.0019151117885485291
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 256,
+        "activation": "selu",
+        "val_loss": 0.0019025661749765277,
+        "cos": 0.9987708330154419
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 256,
+        "activation": "sigmoid",
+        "epoch": 56,
+        "val_loss": 0.0017559305997565389
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 256,
+        "activation": "sigmoid",
+        "val_loss": 0.0017531258054077625,
+        "cos": 0.9990183115005493
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 512,
+        "activation": "selu",
+        "epoch": 8,
+        "val_loss": 3.9717178344726562
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 512,
+        "activation": "selu",
+        "val_loss": 3.977660655975342,
+        "cos": -0.6164222359657288
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 512,
+        "activation": "sigmoid",
+        "epoch": 37,
+        "val_loss": 0.001765525434166193
+    },
+    {
+        "hidden_layers": 3,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 512,
+        "activation": "sigmoid",
+        "val_loss": 0.001758613740094006,
+        "cos": 0.9990159869194031
     },
     {
         "hidden_layers": 4,
         "learning_rate": 1e-05,
         "nodes_first_layer": 128,
         "activation": "selu",
-        "val_loss": 0.015450214967131615,
-        "cos": 0.9985597729682922
+        "epoch": 299,
+        "val_loss": 0.00220499443821609
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 1e-05,
+        "nodes_first_layer": 128,
+        "activation": "selu",
+        "val_loss": 0.0022323322482407093,
+        "cos": 0.998410165309906
     },
     {
         "hidden_layers": 4,
         "learning_rate": 1e-05,
         "nodes_first_layer": 128,
         "activation": "sigmoid",
-        "val_loss": 0.021282168105244637,
-        "cos": 0.9974382519721985
+        "epoch": 299,
+        "val_loss": 0.02252206765115261
     },
     {
         "hidden_layers": 4,
         "learning_rate": 1e-05,
         "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 0.015555011108517647,
-        "cos": 0.9986705183982849
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 16,
-        "activation": "selu",
-        "val_loss": 0.01632061041891575,
-        "cos": 0.9981216192245483
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 16,
         "activation": "sigmoid",
-        "val_loss": 0.019064156338572502,
-        "cos": 0.9972825646400452
+        "val_loss": 0.022494452074170113,
+        "cos": 0.9973044395446777
     },
     {
         "hidden_layers": 4,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.017175814136862755,
-        "cos": 0.997505247592926
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 32,
-        "activation": "selu",
-        "val_loss": 0.014614472165703773,
-        "cos": 0.9983690977096558
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 32,
-        "activation": "sigmoid",
-        "val_loss": 0.01754084974527359,
-        "cos": 0.9977944493293762
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.014706786721944809,
-        "cos": 0.9980021715164185
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 64,
-        "activation": "selu",
-        "val_loss": 0.01387203298509121,
-        "cos": 0.9977600574493408
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 64,
-        "activation": "sigmoid",
-        "val_loss": 0.016538036987185478,
-        "cos": 0.9986478686332703
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.014022563584148884,
-        "cos": 0.9977009892463684
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 128,
-        "activation": "selu",
-        "val_loss": 0.014825494959950447,
-        "cos": 0.9984908699989319
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 128,
-        "activation": "sigmoid",
-        "val_loss": 0.01634763926267624,
-        "cos": 0.998654842376709
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 0.014145082794129848,
-        "cos": 0.997732937335968
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 16,
-        "activation": "selu",
-        "val_loss": 0.014097237028181553,
-        "cos": 0.997904896736145
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 16,
-        "activation": "sigmoid",
-        "val_loss": 0.015797000378370285,
-        "cos": 0.9986600875854492
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.014057700522243977,
-        "cos": 0.9974395632743835
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 32,
-        "activation": "selu",
-        "val_loss": 0.013271566480398178,
-        "cos": 0.9978427290916443
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 32,
-        "activation": "sigmoid",
-        "val_loss": 0.013758857734501362,
-        "cos": 0.9986691474914551
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.013357140123844147,
-        "cos": 0.9984325766563416
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 64,
-        "activation": "selu",
-        "val_loss": 0.01436690054833889,
-        "cos": 0.9980586171150208
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 64,
-        "activation": "sigmoid",
-        "val_loss": 0.013139918446540833,
-        "cos": 0.9984965324401855
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.014340133406221867,
-        "cos": 0.997992992401123
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 128,
-        "activation": "selu",
-        "val_loss": 0.014999481849372387,
-        "cos": 0.9983267784118652
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 128,
-        "activation": "sigmoid",
-        "val_loss": 0.013542954809963703,
-        "cos": 0.9978408217430115
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 0.014626702293753624,
-        "cos": 0.9982526302337646
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 16,
-        "activation": "selu",
-        "val_loss": 0.014254105277359486,
-        "cos": 0.9982014894485474
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 16,
-        "activation": "sigmoid",
-        "val_loss": 0.012934412807226181,
-        "cos": 0.9986584186553955
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.013621949590742588,
-        "cos": 0.9987020492553711
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 32,
-        "activation": "selu",
-        "val_loss": 0.015401499345898628,
-        "cos": 0.9986594915390015
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 32,
-        "activation": "sigmoid",
-        "val_loss": 0.022635500878095627,
-        "cos": 0.9973200559616089
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.014570909552276134,
-        "cos": 0.9986881017684937
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 64,
-        "activation": "selu",
-        "val_loss": 0.015146853402256966,
-        "cos": 0.9986067414283752
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 64,
-        "activation": "sigmoid",
-        "val_loss": 0.013730248436331749,
-        "cos": 0.9987114071846008
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.015503190457820892,
-        "cos": 0.9985958337783813
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 128,
-        "activation": "selu",
-        "val_loss": 0.0156844574958086,
-        "cos": 0.9986063241958618
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 128,
-        "activation": "sigmoid",
-        "val_loss": 0.013785865157842636,
-        "cos": 0.9986676573753357
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 0.015833260491490364,
-        "cos": 0.9985510110855103
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 16,
-        "activation": "selu",
-        "val_loss": 0.016798485070466995,
-        "cos": 0.9973644614219666
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 16,
-        "activation": "sigmoid",
-        "val_loss": 0.022636299952864647,
-        "cos": 0.9973194003105164
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.016486432403326035,
-        "cos": 0.9985018968582153
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 32,
-        "activation": "selu",
-        "val_loss": 5.9885125160217285,
-        "cos": -0.9971829056739807
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 32,
-        "activation": "sigmoid",
-        "val_loss": 0.016627982258796692,
-        "cos": 0.9974157214164734
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.022659817710518837,
-        "cos": 0.9973052740097046
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 64,
-        "activation": "selu",
-        "val_loss": 5.9885125160217285,
-        "cos": -0.9971829056739807
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 64,
-        "activation": "sigmoid",
-        "val_loss": 0.022689951583743095,
-        "cos": 0.9972710013389587
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.02268698252737522,
-        "cos": 0.9973131418228149
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 128,
-        "activation": "selu",
-        "val_loss": 5.9885125160217285,
-        "cos": -0.9971829056739807
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 128,
-        "activation": "sigmoid",
-        "val_loss": 0.022639326751232147,
-        "cos": 0.997320294380188
-    },
-    {
-        "hidden_layers": 4,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 0.02273157238960266,
-        "cos": 0.9972085356712341
-    },
-    {
-        "hidden_layers": 5,
         "learning_rate": 1e-05,
-        "nodes_first_layer": 16,
+        "nodes_first_layer": 256,
         "activation": "selu",
-        "val_loss": 0.02458001859486103,
-        "cos": 0.9957450032234192
+        "epoch": 217,
+        "val_loss": 0.001957197207957506
     },
     {
-        "hidden_layers": 5,
+        "hidden_layers": 4,
         "learning_rate": 1e-05,
-        "nodes_first_layer": 16,
-        "activation": "sigmoid",
-        "val_loss": 0.8398586511611938,
-        "cos": 0.0494249202311039
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.021081194281578064,
-        "cos": 0.9970593452453613
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 1e-05,
-        "nodes_first_layer": 32,
+        "nodes_first_layer": 256,
         "activation": "selu",
-        "val_loss": 0.01708533987402916,
-        "cos": 0.9977878332138062
+        "val_loss": 0.001974922837689519,
+        "cos": 0.9985823631286621
     },
     {
-        "hidden_layers": 5,
+        "hidden_layers": 4,
         "learning_rate": 1e-05,
-        "nodes_first_layer": 32,
+        "nodes_first_layer": 256,
         "activation": "sigmoid",
-        "val_loss": 0.03282802179455757,
-        "cos": 0.9887587428092957
+        "epoch": 299,
+        "val_loss": 0.002271421020850539
     },
     {
-        "hidden_layers": 5,
+        "hidden_layers": 4,
         "learning_rate": 1e-05,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.019907504320144653,
-        "cos": 0.9982317090034485
+        "nodes_first_layer": 256,
+        "activation": "sigmoid",
+        "val_loss": 0.002274990314617753,
+        "cos": 0.9985073804855347
     },
     {
-        "hidden_layers": 5,
+        "hidden_layers": 4,
         "learning_rate": 1e-05,
-        "nodes_first_layer": 64,
+        "nodes_first_layer": 512,
         "activation": "selu",
-        "val_loss": 0.01558800507336855,
-        "cos": 0.9984944462776184
+        "epoch": 140,
+        "val_loss": 0.002055691322311759
     },
     {
-        "hidden_layers": 5,
+        "hidden_layers": 4,
         "learning_rate": 1e-05,
-        "nodes_first_layer": 64,
+        "nodes_first_layer": 512,
+        "activation": "selu",
+        "val_loss": 0.002049035159870982,
+        "cos": 0.9985092282295227
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 1e-05,
+        "nodes_first_layer": 512,
         "activation": "sigmoid",
-        "val_loss": 0.02262522280216217,
-        "cos": 0.9973223805427551
+        "epoch": 299,
+        "val_loss": 0.0018317019566893578
     },
     {
-        "hidden_layers": 5,
+        "hidden_layers": 4,
         "learning_rate": 1e-05,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.016523126512765884,
-        "cos": 0.9986408948898315
+        "nodes_first_layer": 512,
+        "activation": "sigmoid",
+        "val_loss": 0.0018388001481071115,
+        "cos": 0.9989479184150696
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 128,
+        "activation": "selu",
+        "epoch": 125,
+        "val_loss": 0.0019493637373670936
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 128,
+        "activation": "selu",
+        "val_loss": 0.001938544912263751,
+        "cos": 0.9984787106513977
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 128,
+        "activation": "sigmoid",
+        "epoch": 298,
+        "val_loss": 0.0017524159047752619
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 128,
+        "activation": "sigmoid",
+        "val_loss": 0.00175340729765594,
+        "cos": 0.9990100860595703
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 256,
+        "activation": "selu",
+        "epoch": 98,
+        "val_loss": 0.0019840651657432318
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 256,
+        "activation": "selu",
+        "val_loss": 0.0019705279264599085,
+        "cos": 0.9986395239830017
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 256,
+        "activation": "sigmoid",
+        "epoch": 197,
+        "val_loss": 0.0017556503880769014
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 256,
+        "activation": "sigmoid",
+        "val_loss": 0.0017506361473351717,
+        "cos": 0.9990110397338867
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 512,
+        "activation": "selu",
+        "epoch": 63,
+        "val_loss": 0.0019110413268208504
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 512,
+        "activation": "selu",
+        "val_loss": 0.0019084190716966987,
+        "cos": 0.9986972808837891
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 512,
+        "activation": "sigmoid",
+        "epoch": 132,
+        "val_loss": 0.0017668720101937652
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 512,
+        "activation": "sigmoid",
+        "val_loss": 0.0017656038980931044,
+        "cos": 0.999016523361206
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 128,
+        "activation": "selu",
+        "epoch": 48,
+        "val_loss": 0.0018433149671182036
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 128,
+        "activation": "selu",
+        "val_loss": 0.001830585766583681,
+        "cos": 0.9987750053405762
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 128,
+        "activation": "sigmoid",
+        "epoch": 104,
+        "val_loss": 0.0017486709402874112
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 128,
+        "activation": "sigmoid",
+        "val_loss": 0.0017470285529270768,
+        "cos": 0.9990116357803345
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 256,
+        "activation": "selu",
+        "epoch": 30,
+        "val_loss": 2.0177321434020996
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 256,
+        "activation": "selu",
+        "val_loss": 2.017996311187744,
+        "cos": -0.13439545035362244
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 256,
+        "activation": "sigmoid",
+        "epoch": 53,
+        "val_loss": 0.0017548881005495787
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 256,
+        "activation": "sigmoid",
+        "val_loss": 0.0017492631450295448,
+        "cos": 0.9990147948265076
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 512,
+        "activation": "selu",
+        "epoch": 23,
+        "val_loss": 0.0018910703947767615
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 512,
+        "activation": "selu",
+        "val_loss": 0.0018883665325120091,
+        "cos": 0.9985557794570923
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 512,
+        "activation": "sigmoid",
+        "epoch": 28,
+        "val_loss": 0.0017634597606956959
+    },
+    {
+        "hidden_layers": 4,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 512,
+        "activation": "sigmoid",
+        "val_loss": 0.0017591799842193723,
+        "cos": 0.9990101456642151
     },
     {
         "hidden_layers": 5,
         "learning_rate": 1e-05,
         "nodes_first_layer": 128,
         "activation": "selu",
-        "val_loss": 0.015449208207428455,
-        "cos": 0.9985026717185974
+        "epoch": 299,
+        "val_loss": 0.002375115407630801
+    },
+    {
+        "hidden_layers": 5,
+        "learning_rate": 1e-05,
+        "nodes_first_layer": 128,
+        "activation": "selu",
+        "val_loss": 0.002396741881966591,
+        "cos": 0.9982591271400452
     },
     {
         "hidden_layers": 5,
         "learning_rate": 1e-05,
         "nodes_first_layer": 128,
         "activation": "sigmoid",
-        "val_loss": 0.020980846136808395,
-        "cos": 0.9974284172058105
+        "epoch": 299,
+        "val_loss": 0.014551379717886448
     },
     {
         "hidden_layers": 5,
         "learning_rate": 1e-05,
         "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 0.01564912497997284,
-        "cos": 0.9986634254455566
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 16,
-        "activation": "selu",
-        "val_loss": 0.016263524070382118,
-        "cos": 0.9985478520393372
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 16,
         "activation": "sigmoid",
-        "val_loss": 0.02263709343969822,
-        "cos": 0.9973190426826477
+        "val_loss": 0.014530278742313385,
+        "cos": 0.995902419090271
     },
     {
         "hidden_layers": 5,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.016179705038666725,
-        "cos": 0.9986008405685425
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 32,
+        "learning_rate": 1e-05,
+        "nodes_first_layer": 256,
         "activation": "selu",
-        "val_loss": 0.014530664309859276,
-        "cos": 0.998285174369812
+        "epoch": 250,
+        "val_loss": 0.0019258535467088223
     },
     {
         "hidden_layers": 5,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 32,
-        "activation": "sigmoid",
-        "val_loss": 0.01757514290511608,
-        "cos": 0.9975393414497375
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.015241213142871857,
-        "cos": 0.9985599517822266
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 64,
+        "learning_rate": 1e-05,
+        "nodes_first_layer": 256,
         "activation": "selu",
-        "val_loss": 0.013643011450767517,
-        "cos": 0.9978477358818054
+        "val_loss": 0.0019554689060896635,
+        "cos": 0.9986940026283264
     },
     {
         "hidden_layers": 5,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 64,
+        "learning_rate": 1e-05,
+        "nodes_first_layer": 256,
         "activation": "sigmoid",
-        "val_loss": 0.016578737646341324,
-        "cos": 0.998640775680542
+        "epoch": 299,
+        "val_loss": 0.004776433575898409
     },
     {
         "hidden_layers": 5,
-        "learning_rate": 0.0001,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.013372857123613358,
-        "cos": 0.998031735420227
+        "learning_rate": 1e-05,
+        "nodes_first_layer": 256,
+        "activation": "sigmoid",
+        "val_loss": 0.004718788433820009,
+        "cos": 0.9967677593231201
+    },
+    {
+        "hidden_layers": 5,
+        "learning_rate": 1e-05,
+        "nodes_first_layer": 512,
+        "activation": "selu",
+        "epoch": 133,
+        "val_loss": 0.0019334706012159586
+    },
+    {
+        "hidden_layers": 5,
+        "learning_rate": 1e-05,
+        "nodes_first_layer": 512,
+        "activation": "selu",
+        "val_loss": 0.0019339234568178654,
+        "cos": 0.9986898899078369
+    },
+    {
+        "hidden_layers": 5,
+        "learning_rate": 1e-05,
+        "nodes_first_layer": 512,
+        "activation": "sigmoid",
+        "epoch": 299,
+        "val_loss": 0.0031573185697197914
+    },
+    {
+        "hidden_layers": 5,
+        "learning_rate": 1e-05,
+        "nodes_first_layer": 512,
+        "activation": "sigmoid",
+        "val_loss": 0.0031361933797597885,
+        "cos": 0.9974856972694397
     },
     {
         "hidden_layers": 5,
         "learning_rate": 0.0001,
         "nodes_first_layer": 128,
         "activation": "selu",
-        "val_loss": 0.014406317844986916,
-        "cos": 0.9981681108474731
+        "epoch": 133,
+        "val_loss": 0.001869284431450069
+    },
+    {
+        "hidden_layers": 5,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 128,
+        "activation": "selu",
+        "val_loss": 0.0018773924093693495,
+        "cos": 0.9988039135932922
     },
     {
         "hidden_layers": 5,
         "learning_rate": 0.0001,
         "nodes_first_layer": 128,
         "activation": "sigmoid",
-        "val_loss": 0.01637233980000019,
-        "cos": 0.9986536502838135
+        "epoch": 296,
+        "val_loss": 0.0018708946881815791
     },
     {
         "hidden_layers": 5,
         "learning_rate": 0.0001,
         "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 0.014319167472422123,
-        "cos": 0.9977141618728638
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 16,
-        "activation": "selu",
-        "val_loss": 0.013638113625347614,
-        "cos": 0.9978687763214111
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 16,
         "activation": "sigmoid",
-        "val_loss": 0.022636108100414276,
-        "cos": 0.997319221496582
+        "val_loss": 0.0018781858962029219,
+        "cos": 0.998869776725769
     },
     {
         "hidden_layers": 5,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.014628265053033829,
-        "cos": 0.9979626536369324
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 32,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 256,
         "activation": "selu",
-        "val_loss": 0.013814403675496578,
-        "cos": 0.998013436794281
+        "epoch": 81,
+        "val_loss": 0.0019754203967750072
     },
     {
         "hidden_layers": 5,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 32,
-        "activation": "sigmoid",
-        "val_loss": 0.013672487810254097,
-        "cos": 0.9986764192581177
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.013495901599526405,
-        "cos": 0.9980456829071045
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 64,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 256,
         "activation": "selu",
-        "val_loss": 0.015052312053740025,
-        "cos": 0.9986402988433838
+        "val_loss": 0.0020007393322885036,
+        "cos": 0.9985225796699524
     },
     {
         "hidden_layers": 5,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 64,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 256,
         "activation": "sigmoid",
-        "val_loss": 0.01361851952970028,
-        "cos": 0.9983484745025635
+        "epoch": 280,
+        "val_loss": 0.0017507248558104038
     },
     {
         "hidden_layers": 5,
-        "learning_rate": 0.001,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.015148142352700233,
-        "cos": 0.9986824989318848
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 256,
+        "activation": "sigmoid",
+        "val_loss": 0.0017482228577136993,
+        "cos": 0.9990139007568359
+    },
+    {
+        "hidden_layers": 5,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 512,
+        "activation": "selu",
+        "epoch": 36,
+        "val_loss": 0.0019456858281046152
+    },
+    {
+        "hidden_layers": 5,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 512,
+        "activation": "selu",
+        "val_loss": 0.001943808514624834,
+        "cos": 0.9985800385475159
+    },
+    {
+        "hidden_layers": 5,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 512,
+        "activation": "sigmoid",
+        "epoch": 175,
+        "val_loss": 0.0017561004497110844
+    },
+    {
+        "hidden_layers": 5,
+        "learning_rate": 0.0001,
+        "nodes_first_layer": 512,
+        "activation": "sigmoid",
+        "val_loss": 0.0017529076430946589,
+        "cos": 0.9990112781524658
     },
     {
         "hidden_layers": 5,
         "learning_rate": 0.001,
         "nodes_first_layer": 128,
         "activation": "selu",
-        "val_loss": 0.015120214782655239,
-        "cos": 0.9985371232032776
+        "epoch": 80,
+        "val_loss": 0.0018345261923968792
+    },
+    {
+        "hidden_layers": 5,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 128,
+        "activation": "selu",
+        "val_loss": 0.001831666799262166,
+        "cos": 0.9988272190093994
     },
     {
         "hidden_layers": 5,
         "learning_rate": 0.001,
         "nodes_first_layer": 128,
         "activation": "sigmoid",
-        "val_loss": 0.01336644683033228,
-        "cos": 0.9985135197639465
+        "epoch": 188,
+        "val_loss": 0.0017392365261912346
     },
     {
         "hidden_layers": 5,
         "learning_rate": 0.001,
         "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 0.01490955799818039,
-        "cos": 0.9984474182128906
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 16,
-        "activation": "selu",
-        "val_loss": 0.014159227721393108,
-        "cos": 0.9984091520309448
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 16,
         "activation": "sigmoid",
-        "val_loss": 0.012871318496763706,
-        "cos": 0.998622477054596
+        "val_loss": 0.0017364256782457232,
+        "cos": 0.9990229606628418
     },
     {
         "hidden_layers": 5,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.014911683276295662,
-        "cos": 0.9986854791641235
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 32,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 256,
         "activation": "selu",
-        "val_loss": 0.016387835144996643,
-        "cos": 0.9985739588737488
+        "epoch": 49,
+        "val_loss": 0.001816471922211349
     },
     {
         "hidden_layers": 5,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 32,
-        "activation": "sigmoid",
-        "val_loss": 0.01321115717291832,
-        "cos": 0.9986750483512878
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.014483116567134857,
-        "cos": 0.9986839890480042
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 64,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 256,
         "activation": "selu",
-        "val_loss": 0.015551267191767693,
-        "cos": 0.9986240863800049
+        "val_loss": 0.0018082644091919065,
+        "cos": 0.9988844990730286
     },
     {
         "hidden_layers": 5,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 64,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 256,
         "activation": "sigmoid",
-        "val_loss": 0.013985116966068745,
-        "cos": 0.9986898303031921
+        "epoch": 75,
+        "val_loss": 0.0017510525649413466
     },
     {
         "hidden_layers": 5,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.015461974777281284,
-        "cos": 0.9986534118652344
+        "learning_rate": 0.001,
+        "nodes_first_layer": 256,
+        "activation": "sigmoid",
+        "val_loss": 0.0017546038143336773,
+        "cos": 0.9990122318267822
     },
     {
         "hidden_layers": 5,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 128,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 512,
         "activation": "selu",
-        "val_loss": 0.01590828038752079,
-        "cos": 0.9986072778701782
+        "epoch": 19,
+        "val_loss": 0.0019130061846226454
     },
     {
         "hidden_layers": 5,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 128,
-        "activation": "sigmoid",
-        "val_loss": 0.014125977642834187,
-        "cos": 0.9986820816993713
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.01,
-        "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 0.01619100198149681,
-        "cos": 0.9986706376075745
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 16,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 512,
         "activation": "selu",
-        "val_loss": 0.0226454921066761,
-        "cos": 0.997309684753418
+        "val_loss": 0.001938278554007411,
+        "cos": 0.9986951351165771
     },
     {
         "hidden_layers": 5,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 16,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 512,
         "activation": "sigmoid",
-        "val_loss": 0.022643951699137688,
-        "cos": 0.9973142743110657
+        "epoch": 54,
+        "val_loss": 0.0017627649940550327
     },
     {
         "hidden_layers": 5,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 16,
-        "activation": "tanh",
-        "val_loss": 0.0226482842117548,
-        "cos": 0.9973086714744568
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 32,
-        "activation": "selu",
-        "val_loss": 0.017228109762072563,
-        "cos": 0.9973963499069214
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 32,
+        "learning_rate": 0.001,
+        "nodes_first_layer": 512,
         "activation": "sigmoid",
-        "val_loss": 0.022677216678857803,
-        "cos": 0.9973013401031494
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 32,
-        "activation": "tanh",
-        "val_loss": 0.017783092334866524,
-        "cos": 0.997390627861023
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 64,
-        "activation": "selu",
-        "val_loss": 5.9885125160217285,
-        "cos": -0.9971829056739807
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 64,
-        "activation": "sigmoid",
-        "val_loss": 0.02265424281358719,
-        "cos": 0.9973174929618835
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 64,
-        "activation": "tanh",
-        "val_loss": 0.022672386839985847,
-        "cos": 0.9973046779632568
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 128,
-        "activation": "selu",
-        "val_loss": 5.9885125160217285,
-        "cos": -0.9971829056739807
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 128,
-        "activation": "sigmoid",
-        "val_loss": 0.02266247570514679,
-        "cos": 0.9972832202911377
-    },
-    {
-        "hidden_layers": 5,
-        "learning_rate": 0.1,
-        "nodes_first_layer": 128,
-        "activation": "tanh",
-        "val_loss": 0.022863296791911125,
-        "cos": 0.9971688985824585
+        "val_loss": 0.001760448212735355,
+        "cos": 0.9990009069442749
     }
 ]
